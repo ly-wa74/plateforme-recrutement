@@ -1,0 +1,6 @@
+{
+  "name": "Plateforme de Recrutement",
+  "description": "Une plateforme de recrutement complète avec offres d'emploi, candidatures, profils candidats, et tableau de bord de suivi RH.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
